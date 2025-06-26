@@ -1,0 +1,8 @@
+# Core packages required for scraping and GUI
+requests
+beautifulsoup4
+pillow
+ttkthemes
+pandas
+
+
